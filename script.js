@@ -1,4 +1,4 @@
-const baseUrl = 'https://goodbudgetforcambodianresident.rf.gd/api/';
+const baseUrl = 'https://goodbudgetforcambodianresident.rf.gd/';
 
 document.addEventListener('DOMContentLoaded', () => {
     loadTasks();
